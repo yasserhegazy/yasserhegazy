@@ -35,23 +35,23 @@ Software engineer with a strong backend foundation and hands-on experience acros
 
 ## 💼 Professional Experience
 
-### 🔹 Software Engineer (Freelance) | **IbraDev** (2025 – Present)
+### 🔹 Software Engineer (Freelance) | **IbraDev** (Feb 2026 – May 2026)
 - Architected and built **IbraAgent** — a multi-tenant AI customer service SaaS integrating with Instagram & Facebook via Meta APIs
 - Backend: **FastAPI + PostgreSQL + Redis + ChromaDB**, real-time WebSocket engine, RAG pipeline with LangChain/LangGraph
 - Frontend: **Next.js 16 + React 19 + TypeScript**, bilingual (EN/AR) dashboard with TanStack Query and Recharts
 - Implemented monitoring (Sentry, Prometheus), rate limiting, JWT auth, and OneSignal push notifications
 
-### 🔹 Software Engineer (Freelance) | **Azzm** (2025)
+### 🔹 Software Engineer (Freelance) | **Azzm** (May 2026 - Jun 2026)
 - Built a full-stack construction project management system for Saudi contractors in **Laravel 10 + Livewire 3 + Alpine.js**
 - Designed a 5-role RBAC system (26 permissions), EVM analytics with ApexCharts, RTL Arabic interface
 - Mobile-first, real-time UI with zero page reloads; production-ready with queued notifications and multi-channel alerts
 
-### 🔹 Software Engineer Intern | **Approved Technologies W.L.L** (2025)
+### 🔹 Software Engineer Intern | **Approved Technologies W.L.L** (Oct 2025 - May 2026)
 - Developed production backend modules with **Laravel** and **Django REST Framework**
 - Designed scalable database schemas and optimized SQL queries
 - Implemented authentication, RBAC, and secure API communication in Agile sprints
 
-### 🔹 Software Engineer Intern | **TAQAT** (2025)
+### 🔹 Software Engineer Intern | **TAQAT** (Oct 2025 - Jun 2026)
 - Built backend features with **Laravel + MySQL** for customer-facing systems
 - Led backend team for **Palestine Clinic SaaS Platform**
 - Designed RESTful APIs with structured validation; worked in Agile workflows with Git and Jira
