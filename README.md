@@ -4,7 +4,7 @@
 
 ### Applied AI Engineer · Backend-First Full-Stack Engineer
 
-📍 Palestine (Remote-friendly) · 🎓 B.Eng. Computer Engineering @ Islamic University of Gaza (GPA 92.54/100 · 3.8/4.0 · **Ranked 2nd**)
+📍 Palestine (Remote-friendly) · 🎓 B.Eng. Computer Engineering @ Islamic University of Gaza (GPA 92.54/100 · **Ranked 2nd**)
 
 **Building reliable AI products that hold up in production — for 1,000+ daily users**
 
