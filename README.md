@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Yasser Hegazy
 
-### Software Engineer | Full-Stack | AI Systems | QA
+### Applied AI Engineer · Backend-First Full-Stack Engineer
 
-📍 Palestine | 🎓 B.Sc. Computer Engineering @ Islamic University of Gaza (GPA 3.8/4 · Ranked 2nd)
+📍 Palestine (Remote-friendly) · 🎓 B.Eng. Computer Engineering @ Islamic University of Gaza (GPA 92.54/100 · 3.8/4.0 · **Ranked 2nd**)
 
-Building secure, scalable systems that perform under pressure
+**Building reliable AI products that hold up in production — for 1,000+ daily users**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yasserhegazy-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yasserhegazy-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-yasserhegazy-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasserhegazy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasser%20Hegazy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-hegazy-134794248/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasseranahegazy@gmail.com)
@@ -19,42 +19,83 @@ Building secure, scalable systems that perform under pressure
 
 ## 🚀 About Me
 
-Software engineer with a strong backend foundation and hands-on experience across the full stack. I build production-ready systems using **FastAPI**, **Laravel**, **Next.js**, and modern AI architectures — and I bring QA discipline with **Playwright** and **Allure** to every project.
+I'm an Applied AI Engineer and backend-first software engineer. I build the retrieval pipelines, agent workflows, APIs, and safeguards that turn AI ideas into production systems people can actually **depend on** — not just demos.
 
 **Currently:**
-- 💼 Freelancing — delivering client projects in AI SaaS and construction tech
-- 🔍 Actively looking for full-time Software Engineer opportunities
+- 🧠 **AI Product Engineer @ Alif Venture Studio** — I own **WAKIB.ai**, a bilingual AI intelligence platform serving **1,000+ daily users**
+- 🎓 **Teaching Assistant @ Islamic University of Gaza**
+- 🔭 **Open to full-time roles** in Applied AI, Backend, and AI Infrastructure (remote-friendly)
 
-**I focus on:**
-- Backend architecture, API design & system security
-- AI integration — LLM agents, RAG pipelines, multi-tenant SaaS
-- Full-stack delivery (React / Next.js frontends)
-- QA automation with Playwright + Allure reporting
+**What I focus on:**
+- Multi-agent LLM systems, RAG pipelines, and AI evaluation
+- Reliable backend architecture — APIs, async systems, and self-healing job queues
+- Full-stack delivery (Next.js / React) on a strong backend core
+- Engineering quality — TDD, testing, and observability
+
+**By the numbers:**
+- 🚀 **1,000+** daily users on WAKIB.ai
+- 📈 **+18%** measured API reliability
+- 🧪 **~30% → ~80%** automated test coverage on new features
+- 🗜️ **~93%** reduction in image storage
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### 🔹 Software Engineer (Freelance) | **IbraDev** (Feb 2026 – May 2026)
-- Architected and built **IbraAgent** — a multi-tenant AI customer service SaaS integrating with Instagram & Facebook via Meta APIs
-- Backend: **FastAPI + PostgreSQL + Redis + ChromaDB**, real-time WebSocket engine, RAG pipeline with LangChain/LangGraph
-- Frontend: **Next.js 16 + React 19 + TypeScript**, bilingual (EN/AR) dashboard with TanStack Query and Recharts
-- Implemented monitoring (Sentry, Prometheus), rate limiting, JWT auth, and OneSignal push notifications
+### 🧠 AI Product Engineer — **Alif Venture Studio** · Jun 2026 – Present
+Took **WAKIB.ai** from concept to a live bilingual AI platform serving **1,000+ daily users** without a large engineering or editorial team.
+- Designed the multi-agent generation pipeline — semantic clustering, model routing, prompt caching, automated validation, and human-in-the-loop review
+- Re-engineered background AI processing into a **self-healing** system (durable queues, automatic retries, recovery workers, monitoring, alerts)
+- Improved performance & release quality with Next.js SSR/ISR, edge caching, WebP optimization, and CI/CD — **~93% less image storage**
 
-### 🔹 Software Engineer (Freelance) | **Azzm** (May 2026 - Jun 2026)
-- Built a full-stack construction project management system for Saudi contractors in **Laravel 10 + Livewire 3 + Alpine.js**
-- Designed a 5-role RBAC system (26 permissions), EVM analytics with ApexCharts, RTL Arabic interface
-- Mobile-first, real-time UI with zero page reloads; production-ready with queued notifications and multi-channel alerts
+### 🎓 Teaching Assistant — **Islamic University of Gaza** · Aug 2026 – Present
+Support undergraduate Computer Engineering courses; lead labs and mentor students on problem-solving, clean code, and software fundamentals.
 
-### 🔹 Software Engineer Intern | **Approved Technologies W.L.L** (Oct 2025 - May 2026)
-- Developed production backend modules with **Laravel** and **Django REST Framework**
-- Designed scalable database schemas and optimized SQL queries
-- Implemented authentication, RBAC, and secure API communication in Agile sprints
+### 🔧 Software Engineer — **Approved Technologies W.L.L** · Oct 2025 – Jun 2026
+Owned core backend modules in a high-traffic Laravel SaaS.
+- Structured validation & unified response schemas → **+18% API reliability**
+- Introduced an API-first workflow with shared contracts and docs
+- Drove TDD & code reviews → test coverage **~30% → ~80%**
 
-### 🔹 Software Engineer Intern | **TAQAT** (Oct 2025 - Jun 2026)
-- Built backend features with **Laravel + MySQL** for customer-facing systems
-- Led backend team for **Palestine Clinic SaaS Platform**
-- Designed RESTful APIs with structured validation; worked in Agile workflows with Git and Jira
+### 🏥 Full-Stack Engineer — **TAQAT** · Aug 2025 – Jan 2026
+Led backend for a healthcare SaaS for Gaza clinics (4-member team) under senior mentorship. Secure Laravel + MySQL APIs supporting **500+ daily active users**.
+
+---
+
+## 🏆 Featured Projects
+
+### 🌐 WAKIB.ai — Bilingual AI Intelligence Platform · *flagship*
+`Next.js` `TypeScript` `Python` `LangGraph` `RAG` `Durable Queues` `Redis` `CI/CD` · 🔗 [wakib.ai](https://www.wakib.ai)
+
+A multi-agent pipeline that turns fragmented global AI coverage into **verified Arabic & English** content. Owned end to end — ingestion, AI generation, editorial workflows, and the public product.
+- Multi-agent generation with semantic clustering, model routing & prompt caching
+- Self-healing processing: durable queues, retries, recovery workers, monitoring
+- **1,000+ daily users** · **~93%** less image storage
+
+### 🤖 BridgeAI — Multi-Agent Requirements Engineering · *graduation project*
+`FastAPI` `LangGraph` `LangChain` `ChromaDB` `RAG` `WebSockets` `Next.js`
+
+Turns unstructured product conversations into structured **CRS/SRS** documentation through agentic reasoning.
+- Intent extraction, ambiguity-resolution loops & dynamic auto-templating (LangGraph)
+- Semantic retrieval over ChromaDB with real-time WebSocket streaming
+- Versioned document pipelines with PDF/Markdown export
+
+### 💬 Raad — Multi-Tenant Arabic AI Customer Service
+`FastAPI` `LangGraph` `LangChain` `ChromaDB` `RAG` `WhatsApp Business API`
+
+Context-aware replies to business conversations across **six Arabic dialects**, integrated with WhatsApp Business.
+- RAG + agent workflows combining conversation context with tenant-specific knowledge
+- Strict tenant separation; dialect-aware processing and session management
+- Distributed architecture for concurrent sessions across channels
+
+### 🏗️ Azm Alinjaz — Construction Business Management SaaS
+`Laravel` `Livewire` `Alpine.js` `MySQL`
+
+Centralizes operational and administrative construction workflows in one system.
+- Granular **RBAC** — 5 roles, 26 permissions
+- Relational MySQL schema, role-based dashboards, RTL Arabic interface
+
+> More production work — Palestine Clinic SaaS, Food Delivery Platform, AutoMax — on my [portfolio](https://yasserhegazy-portfolio.vercel.app/).
 
 ---
 
@@ -66,7 +107,7 @@ Software engineer with a strong backend foundation and hands-on experience acros
 
 ### Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=php,python,ts,js,java" />
+<img src="https://skillicons.dev/icons?i=python,php,ts,js,java" />
 </div>
 
 </td>
@@ -74,15 +115,15 @@ Software engineer with a strong backend foundation and hands-on experience acros
 
 ### Frameworks
 <div align="center">
-<img src="https://skillicons.dev/icons?i=laravel,fastapi,nextjs,react,django" />
+<img src="https://skillicons.dev/icons?i=fastapi,laravel,django,nextjs,react" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### Databases & Cache
+### Data & Cache
 <div align="center">
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,mongodb" />
 </div>
 
 </td>
@@ -90,24 +131,24 @@ Software engineer with a strong backend foundation and hands-on experience acros
 <tr>
 <td valign="top" width="33%">
 
-### AI & Vector
+### AI & LLM
 <div align="center">
 
-`LangChain` `LangGraph` `ChromaDB`  
-`Groq (Llama 3.3)` `OpenAI`  
-`RAG Pipelines` `Multi-Agent`
+`LangGraph` `LangChain` `RAG`  
+`Multi-Agent` `Embeddings` `ChromaDB`  
+`Prompt Caching` `Model Routing` `Evaluation`
 
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### QA & Testing
+### Quality & Testing
 <div align="center">
 
-`Playwright (Python)` `Allure Reports`  
-`pytest` `Vitest` `PHPUnit`  
-`pytest-asyncio` `Testing Library`
+`TDD` `pytest` `Vitest` `PHPUnit`  
+`Playwright` `API Testing`  
+`Ruff` `Black` `MyPy` `pre-commit`
 
 </div>
 
@@ -116,7 +157,7 @@ Software engineer with a strong backend foundation and hands-on experience acros
 
 ### Tools & DevOps
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,docker,postman,linux,github" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux" />
 </div>
 
 </td>
@@ -128,102 +169,31 @@ Software engineer with a strong backend foundation and hands-on experience acros
 ## 🎯 Core Expertise
 
 ```yaml
-Backend:
-  - RESTful API design, versioning & security
-  - JWT auth, RBAC, multi-tenant SaaS architecture
-  - Async systems (FastAPI + asyncpg + Redis pub-sub)
-  - WebSocket real-time communication
-
 AI & LLM:
-  - RAG pipelines with ChromaDB + LangChain
-  - Multi-agent orchestration with LangGraph
-  - Embeddings (OpenAI, multilingual-e5-large)
-  - Integration with Groq, OpenAI providers
+  - Multi-agent orchestration (LangGraph) & RAG pipelines (ChromaDB + LangChain)
+  - Semantic retrieval, embeddings, prompt caching, model routing
+  - AI evaluation: retrieval quality, factual consistency, output reliability
+  - Human-in-the-loop review & safeguards
+
+Backend:
+  - RESTful API design, versioning & security (JWT, RBAC)
+  - Multi-tenant SaaS architecture
+  - Async systems (FastAPI + Redis pub-sub) & WebSocket real-time
+  - Self-healing pipelines: durable queues, retries, recovery workers, monitoring
 
 Full-Stack:
-  - Next.js App Router + React 19 + TypeScript
-  - Livewire 3 + Alpine.js real-time UIs
-  - RTL / bilingual (Arabic + English) interfaces
-  - TailwindCSS, TanStack Query, Recharts
+  - Next.js App Router + React + TypeScript
+  - Laravel + Livewire real-time UIs
+  - Bilingual (Arabic + English) / RTL interfaces
 
-QA & Quality:
-  - Playwright end-to-end automation (Python)
-  - Allure report generation
-  - Pre-commit hooks (Ruff, Black, MyPy, Bandit)
-  - Code coverage with pytest-cov
+Quality:
+  - TDD, unit & integration testing, API testing, code reviews
+  - Observability, CI/CD, pre-commit quality gates
 
-Database:
-  - PostgreSQL (async), MySQL, Redis, ChromaDB
-  - Schema design, query optimization, Alembic migrations
+Data:
+  - PostgreSQL, MySQL, Redis, ChromaDB
+  - Schema design & query optimization
 ```
-
----
-
-## 🏆 Featured Projects
-
-### 🤖 IbraAgent — Multi-Tenant AI Customer Service SaaS
-`FastAPI` `PostgreSQL` `Redis` `ChromaDB` `LangChain` `LangGraph` `WebSocket`
-
-Backend for a production SaaS platform that connects businesses' AI agents to Instagram & Facebook via Meta APIs. Multi-tenant architecture with per-tenant RAG pipelines and a real-time conversation engine.
-
-**Highlights:**
-- Multi-agent orchestration (LangGraph) with Groq Llama 3.3 70B
-- RAG engine using ChromaDB + multilingual embeddings for context-aware replies
-- Real-time WebSocket layer with Redis pub-sub for live conversations
-- Monitoring: Sentry, Prometheus, Loguru; rate limiting via SlowAPI
-
----
-
-### 🖥️ Ibra Agent Dashboard — Bilingual Frontend
-`Next.js 16` `React 19` `TypeScript` `Tailwind CSS 4` `TanStack Query`
-
-Full-featured bilingual (EN/AR) dashboard for managing AI conversations, inventory, analytics, and subscriptions.
-
-**Highlights:**
-- Server + client components with Next.js App Router
-- Analytics with Recharts; drag-and-drop with @dnd-kit
-- Zod validation, Vitest + Testing Library coverage
-- RTL-ready Arabic interface
-
----
-
-### 🏗️ Azzm — Construction Project Management System
-`Laravel 10` `Livewire 3` `Alpine.js` `MySQL` `ApexCharts`
-
-Full-stack project management system for construction contractors in Saudi Arabia. Role-based dashboards for Managers, Engineers, Supervisors, Field Workers, and Clients.
-
-**Highlights:**
-- 5-role RBAC with 26 granular permissions
-- EVM budget analytics, KPI dashboards, RACI matrix (ApexCharts)
-- Real-time UI with Livewire + Alpine.js (zero page reloads)
-- Mobile-first, touch-optimized; full RTL Arabic interface (Tajawal)
-- Multi-channel notifications (database, email, SMS)
-
----
-
-### 🤖 [BridgeAI](https://github.com/yasserhegazy/bridgeai) — AI-Powered Collaboration Platform
-**Graduation Project** | `FastAPI` `Python` `MySQL` `React` `Docker` `LangGraph`
-
-AI-driven platform automating CRS/SRS generation with multi-agent workflows for seamless client-analyst communication.
-
-**Highlights:**
-- Multi-agent orchestration with LangGraph for intelligent task delegation
-- RAG pipeline for context-aware document generation
-- Async FastAPI backend; fully containerized with Docker
-
----
-
-### 🏥 Palestine Clinic SaaS Platform
-`Laravel` `PHP` `React` `MySQL`
-
-Multi-tenant clinic management system with appointment scheduling and patient records. Led the backend team at TAQAT internship.
-
----
-
-### 🍔 Food Delivery Platform
-`Laravel 12` `PHP 8.2` `MySQL 8` `TailwindCSS`
-
-Production-grade multi-role platform (customers, restaurants, drivers, admins) with complete order lifecycle, real-time notifications, and revenue analytics dashboards.
 
 ---
 
@@ -242,36 +212,38 @@ Production-grade multi-role platform (customers, restaurants, drivers, admins) w
 
 ## 🎓 Education & Certifications
 
-**B.Sc. Computer Engineering** — Islamic University of Gaza  
-Graduated March 2026 | GPA 3.8/4 | **Ranked 2nd in Department**
+**B.Eng. Computer Engineering** — Islamic University of Gaza
+Graduated March 2026 · GPA **92.54/100 (3.8/4.0)** · **Ranked 2nd in Department**
+Graduation project: **BridgeAI** — a multi-agent AI platform for automated requirements engineering.
 
-**Certifications:**
-- ✅ Laravel & PHP Mastery — Udemy
+**Certifications**
+- ✅ Machine Learning with Python — IBM
+- ✅ Developing AI Applications with Python & Flask — IBM
+- ✅ Python for Data Science, AI & Development — IBM
+- ✅ Introduction to Software Engineering — IBM
 - ✅ Django REST API Bootcamp — Udemy
-- ✅ FastAPI & Backend Development — Udemy
+- ✅ Laravel & PHP Mastery — Udemy
 - ✅ Python & Django Web Development — Udemy
-- ✅ Frontend Development (HTML, CSS, JS) — LearnMore Academy
 
 ---
 
 ## 💪 What Sets Me Apart
 
-🎯 **Production Delivery** — Client-facing SaaS systems serving real users  
-🤖 **AI-Native** — RAG, multi-agent, and LLM integration from the ground up  
-🧪 **QA Discipline** — Playwright automation, Allure reporting, pre-commit quality gates  
-🌐 **Full-Stack Capable** — Backend-strong with proven frontend delivery (Next.js, Livewire)  
-⚡ **Performance Focused** — Async architectures, Redis caching, query optimization  
-📚 **Continuous Learner** — Actively tracking the AI/backend ecosystem
+🧠 **AI in production, not demos** — RAG, multi-agent orchestration, evaluation & safeguards
+🛡️ **Reliability-first** — self-healing pipelines, monitoring, and failure handling
+📈 **Measurable impact** — +18% API reliability, 30→80% test coverage, 1,000+ daily users
+🌐 **Full-stack, backend-strong** — Next.js & Livewire on FastAPI/Laravel cores
+🕌 **Bilingual by design** — production Arabic (RTL) + English systems
 
 ---
 
 ## 📫 Let's Connect
 
-💼 Open to **Software Engineer** opportunities — remote or on-site!
+💼 Open to **full-time** roles in **Applied AI, Backend, and AI Infrastructure** — remote-friendly.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF6B6B?style=for-the-badge)](https://yasserhegazy-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-F59E0B?style=for-the-badge)](https://yasserhegazy-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-yasseranahegazy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasseranahegazy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-hegazy-134794248/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasserhegazy)
@@ -282,10 +254,10 @@ Graduated March 2026 | GPA 3.8/4 | **Ranked 2nd in Department**
 
 <div align="center">
 
-### ⭐ If you find my projects interesting, consider giving them a star!
+### ⭐ If my work is useful to you, a star means a lot!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yasserhegazy&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=yasserhegazy&color=F59E0B&style=flat-square)
 
-*"Building systems that remain calm when reality gets messy."*
+*"Making AI work in a demo is easy. Making it dependable in production is the job."*
 
 </div>
