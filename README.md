@@ -22,7 +22,6 @@
 I'm an Applied AI Engineer and backend-first software engineer. I build the retrieval pipelines, agent workflows, APIs, and safeguards that turn AI ideas into production systems people can actually **depend on** — not just demos.
 
 **Currently:**
-- 🧠 **AI Product Engineer @ Alif Venture Studio** — I own **WAKIB.ai**, a bilingual AI intelligence platform serving **1,000+ daily users**
 - 🎓 **Teaching Assistant @ Islamic University of Gaza**
 - 🔭 **Open to full-time roles** in Applied AI, Backend, and AI Infrastructure (remote-friendly)
 
@@ -42,7 +41,7 @@ I'm an Applied AI Engineer and backend-first software engineer. I build the retr
 
 ## 💼 Experience
 
-### 🧠 AI Product Engineer — **Alif Venture Studio** · Jun 2026 – Present
+### 🧠 AI Product Engineer — **Alif Venture Studio** · Jun 2026 – Sep 2026
 Took **WAKIB.ai** from concept to a live bilingual AI platform serving **1,000+ daily users** without a large engineering or editorial team.
 - Designed the multi-agent generation pipeline — semantic clustering, model routing, prompt caching, automated validation, and human-in-the-loop review
 - Re-engineered background AI processing into a **self-healing** system (durable queues, automatic retries, recovery workers, monitoring, alerts)
